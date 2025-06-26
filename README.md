@@ -48,7 +48,7 @@ If your exploit supports Discord RPC, the script attempts to invite you to the F
 - Fluent UI compatible environment.
 - Executor that supports HTTP requests for full features.
 
-## 🔗 Script Loader Example
+## 🔗 Script Loader 
 
 lua
-loadstring(game:HttpGet("https://yourhostedlink.com/fswin.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FsWin-Project/FsWin/refs/heads/main/Important-Script/Main.lua"))()
