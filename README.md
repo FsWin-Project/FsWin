@@ -51,4 +51,4 @@ If your exploit supports Discord RPC, the script attempts to invite you to the F
 ## 🔗 Script Loader 
 
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FsWin-Project/FsWin/refs/heads/main/Important-Script/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FsWin-Project/FsWin/refs/heads/main/Important-Script/KeySystem.lua"))()
