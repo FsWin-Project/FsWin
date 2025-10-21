@@ -8,7 +8,7 @@ StarterGui:SetCore("SendNotification", {
 
 StarterGui:SetCore("SendNotification", {
     Title = "Warning!!!",
-    Text = "The creator added an anti-cheat, so you can be kicked, but not banned. ",
+    Text = "Im currently working on fixing this to prevent you from getting kicked — avoid using the Humanoid option, and flying ",
     Duration = 30 -- durée en secondes
 })
 
